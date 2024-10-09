@@ -1,0 +1,5 @@
+name: IceLib
+version: '1.0'
+main: me.yesice.icelib.IceLib
+api-version: '1.20'
+authors: [ yesIce ]
